@@ -2,7 +2,7 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-// lambo
+// lambo // universe
 // mine
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
