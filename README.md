@@ -1,0 +1,2 @@
+# Serezka
+contract Starknet
