@@ -6,7 +6,7 @@ mod HelloStarknet {
 // mine // swapswap 
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
-// btc
+// btc //raise of son
 // eth belivery 
     #[external]
     fn Say_Hello(message: felt252) {
