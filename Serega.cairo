@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // lambo // universe //bigmoney
 // mine // swapswap //drophunt
-    #[event] //warmhole
+    #[event] //warmhole //superstar
     fn Hello(from: ContractAddress, value: felt252) {}
 // btc //raise of son //Very hight 
 // eth belivery //btcmaxi
