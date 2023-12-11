@@ -7,7 +7,7 @@ mod HelloStarknet {
     #[event] //warmhole
     fn Hello(from: ContractAddress, value: felt252) {}
 // btc //raise of son //Very hight 
-// eth belivery 
+// eth belivery //btcmaxi
     #[external]
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
